@@ -1,4 +1,4 @@
-﻿# 💰 Expense Tracker (Basic)
+﻿# 💰 Expense Tracker 
 
 A web-based **Expense Tracker** mini project built with pure Java — no frameworks, no fluff. Track your daily expenses by category and month using a clean dark fintech-style UI.
 
@@ -199,4 +199,5 @@ expense-form.jsp      ← View (add/edit form)
 Built as a college mini project demonstrating full-stack Java web development using JSP, Servlet, JDBC, and MySQL — without any frameworks.
 
 > Feel free to fork, modify, and use it for your own college projects! ⭐# ExpenseTracker
+
 
