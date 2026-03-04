@@ -82,6 +82,17 @@ Make sure you have the following installed before running:
 
 ---
 
+
+## 📸 Screenshots
+
+### Expense List
+<img src="screenshots/s2.png" width="800"/>
+
+### Add Expense Form
+<img src="screenshots/s1.png" width="800"/>
+
+---
+
 ## 🗄️ Database Setup
 
 **Step 1** — Open MySQL Workbench (or phpMyAdmin if using WAMP)
@@ -101,7 +112,7 @@ CREATE TABLE expense (
 );
 ```
 
----
+
 
 
 
